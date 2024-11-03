@@ -1,0 +1,4 @@
+baseURL = 'https://ipsaledix.it/'
+languageCode = 'en-us'
+title = 'Ipsale dix.it'
+theme = 'ananke'
